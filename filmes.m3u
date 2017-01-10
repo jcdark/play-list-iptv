@@ -1,3 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://filmesonlinejj.net/wp-content/uploads/2017/01/tt9N011fsUzBabWDXAv21SXt3dX-185x278.jpg" group-title="Filmes Dublados", O Bom Gigante
-http://cdn.ec.cx/vd/dd/RC/RCFServer3/ondemand/OBMGIGNTAMG.mp4
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/59e7078699f39cbf9b80d7081bc5ca2cd93574f7.jpg" group-title="Serie de TV", Ao no Exorcist: Kyoto Fujouou Hen - Episódio 001
+https://oqfnx7.oloadcdn.net/dl/l/bk-8RGWcNuggL1Sr/YkafP2xMvzQ/Ao_no_Exorcist_Kyoto_Fujououhen_-_01.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/10/83740.jpg" group-title="Serie de TV", Chain Chronicle: Haecceitas no Hikari - Episódio 001
+https://oqfnwy.oloadcdn.net/dl/l/4e7ApmOzzWUAb_mn/DMUXpWX2Nmg/Chain+Chronicle+-+Haecceitas+no+Hikari+%28TV%29+-+01.mp4?mime=true
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 001
+https://r6---sn-gpv7enez.googlevideo.com/videoplayback?requiressl=yes&id=9635b1dbd9c34867&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486161725&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=0DFF1A54E0FC2C62691EF26BF8E87209B7F10588.5DEF9E942A9CE9637248C50E491013FBB8FC1295&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enez&ms=nxu&mt=1484014196&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 002
+https://r3---sn-gpv7enes.googlevideo.com/videoplayback?requiressl=yes&id=1f56685b9c1e6e29&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486161954&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=2DFABA79A0A6549E69CBD24598962FA2B975ED7D.4CE83D796C33AC3A42874FBC36E9CD0BE8963BF7&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enes&ms=nxu&mt=1484014376&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 003
+https://r3---sn-gpv7enek.googlevideo.com/videoplayback?requiressl=yes&id=8146421e67df833b&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162074&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=05BF28FBC9B95D891FD6F5AB99510998CD2431AE.3254F6DEC62658BB485C7DE0E2EEF78F4F46A7E9&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enek&ms=nxu&mt=1484014561&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 004
+https://r3---sn-gpv7enes.googlevideo.com/videoplayback?requiressl=yes&id=775616522fb7cbf0&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162218&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=4D19A5D7AC0DBCC67008675B636D812934609E64.6E81F55DE17EAFA350B67A1F9AABCC2A1A0E6B53&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enes&ms=nxu&mt=1484014561&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 005
+https://r5---sn-gpv7enek.googlevideo.com/videoplayback?requiressl=yes&id=a35b820bb29f5402&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162250&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=23341AC9E65D3E149B092193E40B829B8ED0ECE9.28CB5A3277C6394EC564A01918DB287ECC6615&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enek&ms=nxu&mt=1484014736&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 006
+https://r4---sn-gpv7enez.googlevideo.com/videoplayback?requiressl=yes&id=8e065d0ec425ecd1&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162280&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=4EA11CF3E393EFA108BE5F0FFAC830DB5D9E65BF.8205CF6083DD3CCDA5476D46E46C7A23E4783584&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enez&ms=nxu&mt=1484014736&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 007
+https://r2---sn-gpv7eney.googlevideo.com/videoplayback?requiressl=yes&id=22b5a8c1c1f191c6&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162334&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=06BC1DB4209321319561FD68DCBE14566D635B03.840C0715155A29CC0B3B4283774E533D17139CB6&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7eney&ms=nxu&mt=1484014736&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 008
+https://r4---sn-gpv7enez.googlevideo.com/videoplayback?requiressl=yes&id=c79c74f8b4443e30&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162529&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=0CFD5A1BE42CE0BCC33A41CE188108FD8BE668D0.2409E3F6F0DC0DF431361BD57986D39778B0A48C&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enez&ms=nxu&mt=1484014915&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 009
+https://r4---sn-gpv7enek.googlevideo.com/videoplayback?requiressl=yes&id=4e3334d0afdd9596&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162366&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=061F36DA11E6AFA69D6E57F06E0A640CA9C5C307.5AA923BEF4320119106548BB9FAECECE231B555C&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enek&ms=nxu&mt=1484014736&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 010
+https://r1---sn-gpv7enez.googlevideo.com/videoplayback?requiressl=yes&id=26efd6b233091654&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162437&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=2620D0C28C9F9B664395D86A3C65E5FAB43498CC.2D2BAF3E38C46BF9000DF64DCD6CD9E976D86454&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enez&ms=nxu&mt=1484014915&mv=m&nh=IgpwcjAzLnJpbzAxKg03Mi4xNC4yMTguMTA0&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 011
+https://r5---sn-gpv7enes.googlevideo.com/videoplayback?requiressl=yes&id=7b3558b8a443eb3a&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162457&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=69BA96E25D2A563A24B70A5E42DF7B65015BDAE4.4C2935B7EC2E4FD84C16ED0077D99FE34B2EA049&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enes&ms=nxu&mt=1484014915&mv=m&nh=IgpwcjAzLnJpbzAxKg03Mi4xNC4yMTguMTA0&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 012
+https://r4---sn-gpv7enez.googlevideo.com/videoplayback?requiressl=yes&id=4035008e8a79b90b&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162479&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=4E4B5932F82E47922A26586FB64A873B99E975DF.846E267F7AC385F17161442E5D4D33E96BD515A5&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enez&ms=nxu&mt=1484014915&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 013
+https://r3---sn-gpv7enek.googlevideo.com/videoplayback?requiressl=yes&id=c4855668dfb3f526&itag=18&source=blogger&app=blogger&ip=191.34.177.214&ipbits=0&expire=1486162501&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,sc,source&signature=490F27A78143875636E1A07A440E12B7061D03CB.0C6AE47611788566C58C7FC684A0A8CFB9EB76AF&key=cms1&cms_redirect=yes&mm=30&mn=sn-gpv7enek&ms=nxu&mt=1484014915&mv=m&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&pl=21&sc=yes
+
+#EXTINF:-1 tvg-logo="http://image.tmdb.org/t/p/original/j75Kse3xssQ6bDUigc8B2g9IpJK.jpg" group-title="Movie", Shojo Kakumei Utena - Episódio Movie
+https://r6---sn-gpv7ener.c.youtube.com/videoplayback?mv=m&gcr=br&ms=nxu&id=o-ACEQJWRAv-sDAfLlpIVLCHfqxFvYwWeyWPyxf7a1n4CG&cp=U0lXSVBTT19HS0NPN19ITVNKOi0taXY2RXhPS1M3&mt=1484060292&ip=191.34.177.214&mime=video/mp4&requiressl=yes&mn=sn-gpv7ener&pl=21&source=youtube&mm=30&ei=ofZ0WMnpEMfS-wWYrYSABw&lmt=1484017747466717&sparams=cp,dur,ei,gcr,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,nh,pl,ratebypass,requiressl,sc,source,upn,expire&nh=IgpwcjAyLnJpbzAxKgkxMjcuMC4wLjE&expire=1484081921&sc=yes&initcwndbps=300000&signature=4E06932C4989F0E8197A3B33CE5F3B33C982CF1E.310E55EA212E47051321F613440B7D214883184F&dur=5130.634&itag=22&key=yt6&upn=hOO7JLBzjWI&ipbits=8&ratebypass=yes
