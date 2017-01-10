@@ -1,9 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/59e7078699f39cbf9b80d7081bc5ca2cd93574f7.jpg" group-title="Serie de TV", Ao no Exorcist: Kyoto Fujouou Hen - Episódio 001
+#EXTSIZE: Big
+#EXTBG: #11609e
 https://oqfnx7.oloadcdn.net/dl/l/bk-8RGWcNuggL1Sr/YkafP2xMvzQ/Ao_no_Exorcist_Kyoto_Fujououhen_-_01.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="https://myanimelist.cdn-dena.com/images/anime/10/83740.jpg" group-title="Serie de TV", Chain Chronicle: Haecceitas no Hikari - Episódio 001
+#EXTSIZE: Big
+#EXTBG: #046f55
 https://oqfnwy.oloadcdn.net/dl/l/4e7ApmOzzWUAb_mn/DMUXpWX2Nmg/Chain+Chronicle+-+Haecceitas+no+Hikari+%28TV%29+-+01.mp4?mime=true
 
 #EXTINF:-1 tvg-logo="http://www.animakai.tv/imagens/capa/f645dd9e11a9b1fa6c9d87288270cfd71f0e9195.jpg" group-title="Serie de TV", Devil Survivor 2 - Episódio 001
